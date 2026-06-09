@@ -1,0 +1,23 @@
+# Original uncompressed files (keep locally, don't push)
+*.mov
+neozap.mp4
+familia-neo.pptx
+apresentacao-ictech.html
+IC Tech Logo (standalone).html
+TODO.md
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Extra unreferenced media
+Screen Recording*
+WhatsApp Video*
+WhatsApp Image 2026-06-02 at 21.28.35.jpeg
+WhatsApp Image 2026-06-02 at 21.30.10.jpeg
+WhatsApp Image 2026-06-02 at 21.42.29.jpeg
+WhatsApp Image 2026-06-02 at 21.33.38.jpeg
+WhatsApp Image 2026-06-02 at 21.39.08.jpeg
+WhatsApp Image 2026-06-02 at 21.28.35 (1).jpeg
+Screenshot*
+ictech.zip
