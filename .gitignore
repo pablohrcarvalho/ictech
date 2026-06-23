@@ -6,6 +6,11 @@ apresentacao-ictech.html
 IC Tech Logo (standalone).html
 TODO.md
 
+# Local build toolchain (dev only — not served)
+.build-tools/node_modules/
+.build-tools/package-lock.json
+.build-tools/assemble.py
+
 # macOS
 .DS_Store
 __MACOSX/
